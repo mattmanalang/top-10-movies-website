@@ -19,6 +19,7 @@ SQLAlchemy is used here to help keep the Python files looking clean while reduci
 <img width="1512" alt="image" src="https://github.com/mattmanalang/top-10-movies-website/assets/73713903/b30cbe97-7d17-4ce0-98aa-81ccc510494b">
 <br>
 <br>
+*(List of possible movies to add, data pulled from TMDB API)*
 <img width="1512" alt="image" src="https://github.com/mattmanalang/top-10-movies-website/assets/73713903/31182aa4-e21a-4f87-9b56-b45cd02c7dfc">
 
 **Databse Updated**
